@@ -1,16 +1,18 @@
-### Hi there 👋
+![Language GIF](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
 
-<!--
-**shantanutheone/shantanutheone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate Data Engineer based in India. I love W key in my keyboard, and I'm always eager to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+
+I'm currently working as a Data Engineer at JLL/T.
+
+## Skills
+
+- **Programming Languages:** Python is ❤
+
+- **Tools and Technologies:** Spark, Docker, Airflow 
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shantanutheone&color=green" alt="Shantanu" /> </p>
